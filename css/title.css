@@ -1,0 +1,25 @@
+div#title{
+    height: 100%;
+    background-image:url(../img/andrew-kliatskyi-Cc0VTXEkdxw-unsplash.jpg);
+    display: flex;
+    align-items: center;
+  }
+div#title .wrap{
+  
+  width: 1616px;
+  margin: 0 auto;
+}
+  div#title h2{
+    font-size: 60px;
+    color: white;
+    line-height: 1.2;
+    /*! font-weight: normal; */
+    font-size: 81px;
+  }
+div#title div.wrap p{
+  
+}
+div#title div.wrap p a{
+  bottom: 25%;
+  position: absolute;
+}

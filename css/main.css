@@ -1,0 +1,50 @@
+main {
+ 
+}
+main #business {
+ 
+  background-color: #2A292D;
+  color: white;
+}
+main #business .wrap {
+ 
+  padding-top: 144px;
+  padding-bottom: 234px;
+}
+main #business .wrap .hide {
+ 
+}
+main #business .wrap .top{
+
+  margin: 0 auto;
+  padding: 0 20px;
+  width: 1616px;
+  display: flex;
+  align-items: flex-start;
+}
+main #business .wrap .top h3 {
+ 
+  width: 200px;
+  font-size: 22.5px;
+  color: #69b6fa;
+}
+main #business .wrap .top p {
+ 
+  font-size: 49.5px;
+}
+main #business .wrap ul {
+ 
+  margin-top: 90px;
+}
+main #business .wrap ul li {
+ 
+}
+main #business .wrap ul li::after{
+  content: "";  
+}
+main #business .wrap ul li h4 {
+ 
+}
+main #business .wrap ul li p {
+ 
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  html,body{
+    height: 100%;
+  }
+  ul{
+    list-style: none;
+  }
+  h1,h2,h3,h4,h5,h6{
+  font-size: initial;
+  /*! font-weight: normal; */
+
+  }
+  a{
+    text-decoration:none;
+    color:white;
+  }
